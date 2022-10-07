@@ -6,8 +6,7 @@
 <p align="center">I have recently completed a Full Stack Developer Bootcamp at LeWagon and am passionate about design, technology and innovation.</p>
 <p align="center">I bring a positive approach to problem-solving, introducing logical, pragmatic and innovative solutions to creative and technical tasks. I have a vast portfolio of design projects, ranging from digital art to large-scale buildings.</p>
 <p align="center">I am self-motivated and pride myself on continuously learning and incorporating new tools and technologies into my work.</p>
-<p align="center">See my portfolio <a href="https://troopl.com/eyssantos">here</a></p>
-<br>
+<p align="center">See my portfolio <a href="https://troopl.com/eyssantos">here</a>.</p>
 
 ## 🛠️ My Skills
 <div align="left">
