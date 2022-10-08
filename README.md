@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=383E9A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p align="center">I have recently completed a Full Stack Developer Bootcamp at LeWagon and am passionate about design, technology and innovation.</p>
+<p align="center">I have recently completed a Full Stack Developer Bootcamp at LeWagon and currently studying React at SheCodes.</p>
 <p align="center">I bring a positive approach to problem-solving, introducing logical, pragmatic and innovative solutions to creative and technical tasks. I have a vast portfolio of design projects, ranging from digital art to large-scale buildings.</p>
 <p align="center">I am self-motivated and pride myself on continuously learning and incorporating new tools and technologies into my work.</p>
 <p align="center">See my portfolio <a href="https://troopl.com/eyssantos">here</a>.</p>
