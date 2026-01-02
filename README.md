@@ -3,15 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=383E9A&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Software+Engineer;Building+Reliable+Systems" 
-      alt="Typing SVG" 
-    />
-  </a>
-</p>
-
-<p align="center">
   Full Stack Developer focused on building reliable, maintainable, and user-centred software.
 </p>
 
