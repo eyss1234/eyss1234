@@ -1,11 +1,31 @@
-<h1 align="center">Hello! I'm Emily <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hello, I’m Emily
+</h1>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=383E9A&center=true&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=383E9A&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Software+Engineer;Building+Reliable+Systems" 
+      alt="Typing SVG" 
+    />
+  </a>
 </p>
 
-<p align="center">I have completed a Full Stack Developer Bootcamp at LeWagon and currently working as a Junior Software Engineer.</p>
-<p align="center">I bring a positive approach to problem-solving, introducing logical, pragmatic and innovative solutions to creative and technical tasks. I have a vast portfolio of design projects, ranging from digital art to large-scale buildings.</p>
-<p align="center">I am self-motivated and pride myself on continuously learning and incorporating new tools and technologies into my work.</p>
+<p align="center">
+  Full Stack Developer focused on building reliable, maintainable, and user-centred software.
+</p>
+
+<p align="center">
+  I work across the stack to design and implement pragmatic solutions to complex problems, with an emphasis on clarity, quality, and long-term maintainability.
+</p>
+
+<p align="center">
+  With a background that blends technical and design thinking, I bring a structured, thoughtful approach to both product development and engineering decisions.
+</p>
+
+<p align="center">
+  I value continuous improvement, clear communication, and writing code that is easy to understand, test, and evolve.
+</p>
 
 
 ## 🛠️ My Skills
@@ -30,8 +50,5 @@
 </div>
 
 <br>
-
-## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eyss1234&theme=holi-theme&hide_border=true&background=FFFFFF&sideLabels=D3832D&currStreakLabel=CE561D&ring=CE561D&sideNums=D3832D&dates=AF5E32&currStreakNum=EAB42B&fire=EAB42B&stroke=AF5E32)](https://git.io/streak-stats)
 
 
